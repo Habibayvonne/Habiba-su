@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Habiba-su
+- 👋 Hi, I’m @Habiba 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Go & Python
 - 💞️ I’m looking to collaborate on 
